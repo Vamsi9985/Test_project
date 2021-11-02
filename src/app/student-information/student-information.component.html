@@ -10,7 +10,7 @@
   </div>
   <!-- Nav bar ending-->
   <!-- student information table start-->
-  <table class="table mt-3" *ngIf="tablestatus">
+  <table class="table mt-3"  *ngIf="tablestatus">
     <thead>
       <tr>
         <th scope="col">Student ID</th>
@@ -85,7 +85,7 @@
               <div class="row mb-3">
                 <label for="input_student_Contact_Number" class="col-sm-2 col-form-label">Mobile Number</label> 
                <div class="col-sm-10">
-                   <input type="number" formControlName="student_Contact_Number" class="form-control" id="input_student_Contact_Number" ngminlength="10" ngmaxlength="10">
+                   <input type="text" formControlName="student_Contact_Number" class="form-control" id="input_student_Contact_Number" ngminlength="10" ngmaxlength="10">
                </div>
               </div>
               </form>

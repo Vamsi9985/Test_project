@@ -1,13 +1,13 @@
 {
   "posts": [
     {
-      "student_Id": 1,
-      "student_Name": "Vamsi b",
-      "student_Date_Of_Birth": "1996-07-07",
-      "student_Department": "Bsc Computers",
-      "student_joining_Year": 2020,
-      "student_Contact_Number": 9985158570,
-      "id": 1
+      "student_Id": 2,
+      "student_Name": "Pavan barla",
+      "student_Date_Of_Birth": "1990-01-01",
+      "student_Department": "Bsc",
+      "student_joining_Year": 2021,
+      "student_Contact_Number": 8465059126,
+      "id": 2
     }
   ],
   "comments": [],
